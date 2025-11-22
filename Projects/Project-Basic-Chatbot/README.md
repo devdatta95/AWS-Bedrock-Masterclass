@@ -1,6 +1,6 @@
 # AWS Bedrock Chatbot
 
-This project is part of the 
+
 
 ## Overview
 
