@@ -1,6 +1,6 @@
 # AWS Bedrock Chatbot
 
-This project is part of the [AWS Bedrock Workshop (Build a Gen AI Chatbot) - Level 100](https://shorturl.at/uvmzn) course.
+This project is part of the 
 
 ## Overview
 
